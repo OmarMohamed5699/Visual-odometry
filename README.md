@@ -3,14 +3,13 @@
 A stereo visual odometry pipeline using learned feature matching
 and PnP RANSAC, evaluated on the KITTI odometry benchmark.
 
-> ENN583 Advanced Neural Networks · Queensland University of Technology  
-> Author: Omar Mohamed
+
 
 ---
 
 ##  Demo
 
-![Trajectory comparison](assets/trajectory.png)
+![Trajectory comparison](result.png)
 
 ---
 
